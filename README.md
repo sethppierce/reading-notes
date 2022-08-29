@@ -3,7 +3,8 @@ All of my notes from the Code-Fellows reading assignments.
 
 ### About Me!
 
-**USMC** *Veteran* , <sup>aspiring</sup> programmer, and Dragonball ~~Nerd~~. 
+**USMC** *Veteran* 🎖️ , <sup>aspiring</sup> programmer, and Dragonball ~~Nerd~~ 🤓. 
+
 
 Check out my [github!!](https://github.com/sethppierce)
 
