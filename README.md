@@ -5,4 +5,4 @@ All of my notes from the Code-Fellows reading assignments.
 
 **USMC** *Veteran* , <sup>aspiring</sup> programmer, and Dragonball ~~Nerd~~. 
 
-My github link https://github.com/sethppierce
+My github link [github](https://github.com/sethppierce)
