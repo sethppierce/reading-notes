@@ -15,3 +15,6 @@ I believe a growth mindset is about being able to be flexible and presistent in 
 - **DON'T TAKE CRITICISM TO HEART** Criticism helps you realize your flaws and how to improve them!
 - ***EMBRACE THE CHALLENGE!!!***
 
+### Notes
+
+[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)
