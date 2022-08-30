@@ -1,5 +1,7 @@
 # Class 2 Reading notes
 
+###### [Return to Home](https://sethppierce.github.io/reading-notes)
+
 ### [What is a Text editor?](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 A text editor is an important piece of software used to manage the text used in your code. Text editors generally have feautures that allow you to have a lot of customization and make your work more efficient. You can either use the text editor that comes with your OS or download a third party application.
