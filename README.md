@@ -18,3 +18,5 @@ I believe a growth mindset is about being able to be flexible and presistent in 
 ### Notes
 
 [Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)
+
+[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class3)
