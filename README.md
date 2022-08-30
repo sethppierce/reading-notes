@@ -14,6 +14,8 @@ Check out my [github!!](https://github.com/sethppierce)
 
 [Growth Mindset](https://sethppierce.github.io/reading-notes/class2)
 
-[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)
+[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- The Coder's Computer
 
-[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class3)
+[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class3)- Revisions and the Cloud
+
+[Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class4)- Structure web pages with HTML
