@@ -42,7 +42,7 @@ A file or directory location relative to where we currently are in the file syst
 Absolute path
 A file or directory location in relation to the root of the file system.
 
-### More about Files
+### [More about Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 - file-obtain information about what type of file a file or directory is.
 - ls -a -List the contents of a directory, including hidden files.
