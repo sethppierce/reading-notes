@@ -1,16 +1,17 @@
 # [Class 3 Reading Notes](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
-###### [Return to Home](https://sethppierce.github.io/reading-notes)
+[Return to Home](https://sethppierce.github.io/reading-notes)
 
 ## Version control
 
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
-**Types**
+### **Types**
+
 - Local Version Control- A Local VCS entails one database on your hard disk that stores changes to files.
 - Centralized Version Control(CVCS)- This system entails a single server storing all changes and file versions, which can be accessed by various clients.
-- Distributed Version Control(DVCS)- addresses the major vulnerability of the CVS: the server as a single point of failure. creates mirrored repositories. 
+- Distributed Version Control(DVCS)- addresses the major vulnerability of the CVS: the server as a single point of failure. creates mirrored repositories.
 
 ## So, What is Git?
 
@@ -27,11 +28,12 @@ Through version control, one can revert a file or project to a previous version,
 ### Local repository Structure
 
 **The local Git repository has three components:**
+
 - Working Directory: The actual files reside here.
 - Index: The area used for staging
 - Head: Points to the most recent commit
 
-![](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+![Workflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 ## Saving Changes
 
@@ -41,6 +43,7 @@ Tracked -Tracked files can be modified, unmodified, or staged; they were part of
 Untracked- Untracked files were not in the last snapshot and do not currently reside in the staging area.
 
 ### Check File Status
+
 To determine the state of files, utilize the git status command: `git status`
 
 ### Tracking and Staging a New File
@@ -50,6 +53,7 @@ Single File- Track one file only by using the following format: `git add filenam
 All Files- Track all files in a repository by using the following command:`$ git add *`
 
 ### Committing a File
+
 After staging one or multiple files, you should commit the changes and record what you did within the commit message:
 
 `$ git commit -m “made change x,y,z”`
@@ -59,6 +63,7 @@ Committing All Changes
 `$ git commit -a`
 
 ### Pushing Changes
+
 Next, you would push changes to a remote repository.
 
 **Example:**
