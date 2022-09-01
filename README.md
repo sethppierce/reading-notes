@@ -23,3 +23,5 @@ Check out my [github!!](https://github.com/sethppierce)
 [Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class5)- Design web pages with CSS
 
 [Class 6 Reading Notes](https://sethppierce.github.io/reading-notes/class6)- Dynamic web pages with JavaScript
+
+[Class 7 Reading Notes](https://sethppierce.github.io/reading-notes/class7)- Programming with JavaScript
