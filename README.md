@@ -25,3 +25,5 @@ Check out my [github!!](https://github.com/sethppierce)
 [Class 6 Reading Notes](https://sethppierce.github.io/reading-notes/class6)- Dynamic web pages with JavaScript
 
 [Class 7 Reading Notes](https://sethppierce.github.io/reading-notes/class7)- Programming with JavaScript
+
+[Class 8 Reading Notes](https://sethppierce.github.io/reading-notes/class8)- Operators and Loops
