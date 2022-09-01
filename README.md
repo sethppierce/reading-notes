@@ -20,4 +20,6 @@ Check out my [github!!](https://github.com/sethppierce)
 
 [Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class4)- Structure web pages with HTML
 
-[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class4)- Design web pages with CSS
+[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class5)- Design web pages with CSS
+
+[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class5)- Dynamic web pages with JavaScript
