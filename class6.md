@@ -1,5 +1,7 @@
 # JavaScript
 
+[Return to Home](https://sethppierce.github.io/reading-notes)
+
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. Most known scripting language for web pages.
 
 ## What are Variables?
