@@ -10,7 +10,9 @@ All of my notes from the Code-Fellows reading assignments.
 
 Check out my [github!!](https://github.com/sethppierce)
 
-### Notes
+## Notes
+
+### Code 102 Reading Notes
 
 [Growth Mindset](https://sethppierce.github.io/reading-notes/class2)
 
@@ -27,3 +29,35 @@ Check out my [github!!](https://github.com/sethppierce)
 [Class 7 Reading Notes](https://sethppierce.github.io/reading-notes/class7)- Programming with JavaScript
 
 [Class 8 Reading Notes](https://sethppierce.github.io/reading-notes/class8)- Operators and Loops
+
+### Code 201 Reading Notes
+
+[Class 1 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 6 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 7 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 8 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 9 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 10 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 11 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 12 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 13 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 14 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+
+[Class 15 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
