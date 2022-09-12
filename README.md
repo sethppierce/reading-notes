@@ -32,7 +32,7 @@ Check out my [github!!](https://github.com/sethppierce)
 
 ### Code 201 Reading Notes
 
-[Class 1 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+[Class 1 Reading Notes](https://sethppierce.github.io/reading-notes/class-01)- 
 
 [Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
 
