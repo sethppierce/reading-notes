@@ -9,19 +9,19 @@ This section is very important because it describes the process of how a website
 ### Getting Started
 
 1. Compose a short poem describing how HTTP sends data between computers.
-2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
+2. Describe how HTML, CSS, and JS files are “parsed” in the browser. It is basically the order of which the files are loaded, first the HTML and while its parsing the HTML from top to bottom the `<link>` and `<script>` elements are parsed.  It compiles the parsed CSS and  JavaScript and then executes it.
 3. How can you find images to add to a Website? - Using Google's License filter set to creative commons licenses.
 4. How do you create a String vs a Number in JavaScript? - A number is declared without '' and a string is.
 5. What is a Variable and why are they important in JavaScript? - Variables store values and those values are used to make functions work and more.
 
 ### Introduction to HTML
 
-1. What is an HTML attribute?
-2. Describe the Anatomy of an HTMl element.
-3. What is the Difference between `<article>` and `<section>` element tags?
-4. What Elements does a “typical” website include?
-5. How does metadata influence Search Engine Optimization?
-6. How is the `<meta>` HTML tag used when specifying metadata?
+1. What is an HTML attribute? contain extra info not in content.
+2. Describe the Anatomy of an HTMl element. opening tag content and then closing tag
+3. What is the Difference between `<article>` and `<section>` element tags? section groups together a part of a page, but article makes sense on its own without the rest of the page.
+4. What Elements does a “typical” website include?- `<main><body><section><p><header><nav><footer><h1,2,3,etc>`
+5. How does metadata influence Search Engine Optimization? it lets search engines use the keywords to appear in searches.
+6. How is the `<meta>` HTML tag used when specifying metadata? you can specify yourself as the author and other descriptions to appear in searches
 
 ### Miscellaneous
 
@@ -91,4 +91,3 @@ An attribute should have:
 4. `<meta charset="utf-8">`: The `<meta>` element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>, <link>, <script>, <style> or <title>`. The charset attributes sets the character set for your document to UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
 5. `<title></title>`: The `<title>` element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
 6. `<body></body>`: The `<body>` element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
-

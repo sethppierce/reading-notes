@@ -34,11 +34,11 @@ Check out my [github!!](https://github.com/sethppierce)
 
 [Class 1 Reading Notes](https://sethppierce.github.io/reading-notes/class-01)- 
 
-[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/class-02)- 
 
-[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/class-03)- 
 
-[Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+[Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class-04)- 
 
 [Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
 
