@@ -40,7 +40,7 @@ Check out my [github!!](https://github.com/sethppierce)
 
 [Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/class-04)- 
 
-[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
+[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/class-05)- 
 
 [Class 6 Reading Notes](https://sethppierce.github.io/reading-notes/class2)- 
 

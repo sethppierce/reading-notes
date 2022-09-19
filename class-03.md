@@ -6,6 +6,8 @@
 
 ### Why this matters
 
+Lists are important because almost always you will have something to list and learning how to properly assign them to a list and style them is important. Arrays and loops are very important, if used properly they can make your code more efficient and readable for everyone.
+
 ### Ordered and Unordered lists
 
 1. When should you use an unordered list in your HTML document?- when listing a group of items that don't have numbered ordering and their order is meaningless.

@@ -6,7 +6,7 @@
 
 ### Why this matters
 
-It matter
+It matters because the better understanding of each element and how they're supposed to be laid out will make styling separate elements easier and finding what we need to find faster.
 
 ### Introduction to HTML
 
@@ -45,6 +45,4 @@ h2 {
 2. What is the use of an else if?- for multiple executions for different varibles evaluating to true.
 3. List 3 different types of comparison operators.- `=== and !==, < >, <= >=`
 4. What is the difference between the logical operator && and ||? for && both conditions have to evaluate to be true and for || only one has to be true for it to execute.
-
-## Things I want to know more about
 
