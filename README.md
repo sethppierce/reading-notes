@@ -58,6 +58,8 @@ Check out my [github!!](https://github.com/sethppierce)
 
 [Class 13 Reading Notes](https://sethppierce.github.io/reading-notes/class-13)- 
 
-[Class 14 Reading Notes](https://sethppierce.github.io/reading-notes/class-14)- 
+[Class 14 Reading Notes](https://sethppierce.github.io/reading-notes/class-14)
+ 
+[Class 14 Reading Notes](https://sethppierce.github.io/reading-notes/psych-safety)
 
 [Class 15 Reading Notes](https://sethppierce.github.io/reading-notes/class-15)- 
