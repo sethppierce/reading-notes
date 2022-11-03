@@ -66,3 +66,20 @@ Check out my [github!!](https://github.com/sethppierce)
 
 ## Code 301 Reading Notes
 
+[Class 1 Reading Notes](https://sethppierce.github.io/reading-notes/30101)
+
+[Class 2 Reading Notes](https://sethppierce.github.io/reading-notes/30102)
+
+[Class 3 Reading Notes](https://sethppierce.github.io/reading-notes/30103)
+
+[Class 4 Reading Notes](https://sethppierce.github.io/reading-notes/30104)
+
+[Class 5 Reading Notes](https://sethppierce.github.io/reading-notes/30105)
+
+[Class 6 Reading Notes](https://sethppierce.github.io/reading-notes/30106)
+
+[Class 7 Reading Notes](https://sethppierce.github.io/reading-notes/30107)
+
+[Class 8 Reading Notes](https://sethppierce.github.io/reading-notes/30108)
+
+[Class 9 Reading Notes](https://sethppierce.github.io/reading-notes/30109)
