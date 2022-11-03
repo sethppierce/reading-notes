@@ -1,0 +1,25 @@
+# REST
+
+[Return to Home](https://sethppierce.github.io/reading-notes)
+
+## Questions
+
+### How I explained REST to my brother
+
+Who is Roy Fielding?- He helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does.
+
+Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?- because we only need to talk to a small group of machines
+
+What is the HTTP protocol that Fielding and his friends created?- it uses GET, POST, PUT, and PATCH on our urls
+
+What does a GET do?- gets information from our apis
+
+What does a POST do?- creates new information on our apis
+
+What does PUT do?- replaces old info with new info
+
+What does PATCH do?- updates old info with new info
+
+### API Keys
+
+I recieved all of my API keys.

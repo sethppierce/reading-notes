@@ -1,0 +1,33 @@
+# React and Forms
+
+[Return to Home](https://sethppierce.github.io/reading-notes)
+
+## Questions
+
+### React Docs - Forms
+
+What is a ‘Controlled Component’?- when values in a component are controlled by user input
+
+Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
+When they submit the form, having it update as they enter them will cause multiple rerenders of the component
+
+How do we target what the user is entering if we have an event handler on an input field?
+event.target.value
+
+### The Conditional (Ternary) Operator Explained
+
+Why would we use a ternary operator?- if we are assigning values to variables
+
+Rewrite the following statement using a ternary statement:
+
+``` javascript
+if(x===y){
+  console.log(true);
+} else {
+  console.log(false);
+}
+```
+
+``` javascript
+console.log(x === y ? true : false)
+```
