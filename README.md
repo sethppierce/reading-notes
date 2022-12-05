@@ -93,3 +93,5 @@ Check out my [github!!](https://github.com/sethppierce)
 [Intro to SQL](https://sethppierce.github.io/reading-notes/401-prep-sql)
 
 [Terminal Practice](https://sethppierce.github.io/reading-notes/401-terminal)
+
+[Growth mindset](https://sethppierce.github.io/reading-notes/401-growthms)
