@@ -83,3 +83,13 @@ Check out my [github!!](https://github.com/sethppierce)
 [Class 8 Reading Notes](https://sethppierce.github.io/reading-notes/30108)
 
 [Class 9 Reading Notes](https://sethppierce.github.io/reading-notes/30109)
+
+## Code 401 Reading Notes
+
+[DSA-prep](https://sethppierce.github.io/reading-notes/401-prep-dsa.)
+
+[Engineer-prep](https://sethppierce.github.io/reading-notes/401-prep-engineer)
+
+[Intro to SQL](https://sethppierce.github.io/reading-notes/401-prep-sql)
+
+[Terminal Practice](https://sethppierce.github.io/reading-notes/401-terminal)
